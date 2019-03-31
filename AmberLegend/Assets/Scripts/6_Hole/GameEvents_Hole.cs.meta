@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2ad1fa9c4c9b44a31a93ddf3ee6e2cc7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - button1Obj_Boy: {fileID: 1847493817101394, guid: d00016424a47c45328d641a2777d6095,
+      type: 2}
+  - button1Obj_Girl: {fileID: 1460710927193030, guid: 8773444dfe989496da68ea98edb23bbe,
+      type: 2}
+  - button2Obj: {fileID: 1423503076219466, guid: 3ea9e98258428455cb35af75f2b17a3e,
+      type: 2}
+  - button3Obj: {fileID: 1308204573940776, guid: 28e2d9ac8897b4661993bad349260b3b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
